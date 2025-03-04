@@ -1,5 +1,6 @@
 import math
 
+#Evalua si el usuario digito pi y transforma el texto en el valor
 def pi(valor):
     if valor.lower() == 'pi':
         return math.pi
